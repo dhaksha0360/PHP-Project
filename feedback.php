@@ -170,7 +170,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
      <a href="http://abcd.com" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">abcd</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+94 123456789</h4>
 		<h4 style="font-family:'typo' ">abcd@gmail.com</h4>
-		<h4 style="font-family:'typo' ">abcd insitute of management & Technology ,bhilai</h4></div></div>
+		<h4 style="font-family:'typo' ">abcd insitute Technology ,SriLanka</h4></div></div>
 		</p>
       </div>
     
